@@ -2,13 +2,13 @@
 
 <widget xmlns ="http://www.w3.org/ns/widgets"
 xmlns:gap ="http://phonegap.com/ns/1.0"
-id ="com.phonegap.app4"
+id ="com.phonegap.app2"
 version ="1.0.0">
 
-<name>app4-2018 Contaminacion en mi comunidad Acciones para combatirla </name>
+<name>app4-2018 Contaminacion en mi ciudad</name>
 
 <description>
-Día mundial de la bicicleta
+Problemas de contaminacion en mi ciudad
 </description>
 
 <author href="https://build.phonegap.com" email="rodrigomartinezgalindo1g@gmail.com">
@@ -33,14 +33,7 @@ Rodrigo Martínez Galindo
 
 <!--< plugin name="cordova-plugin-geolocation" source="npm"/> -->
 <!--Third part plugins-->
-<!--para acesar a paginas en internet-->
-<allow-internet href="https://*/*"/>
-<acces origin="https://*/*"/>
-<allow-internet href="http://*/*"/>
-<acces origin="https://*/*"/>
-<plugin name="cordova-plugin-whitelist"source="npm">
 <!--Colocar icono app-->
-
 
 <icon src="res/android/mdpi.png"/>
 </widget>
